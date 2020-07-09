@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Generation of Origin-Destination matrices based on individual data
 ===================================================================================
 
@@ -63,3 +64,6 @@ You can reach me at maxime.lenormand[at]inrae.fr
 
 
 
+=======
+# Excess Commuting
+>>>>>>> e9f4492001f91ceaadbf1f53e70351f7d6e0ee87
