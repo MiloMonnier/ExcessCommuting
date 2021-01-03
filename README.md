@@ -1,10 +1,13 @@
-<<<<<<< HEAD
+*Note: This project extends the method developped by Maxime Lenormand [here](https://gitlab.com/maximelenormand/xs)*
+
 Generation of Origin-Destination matrices based on individual data
 ===================================================================================
 
 ## Description
 
 According to a specific aggregation design this algorithm aims at generating a set of Origin-Destination matrices (OD) based on individual mobility flow information. First, it spatially aggregates the individual mobility flow according to a specific study area divided into several spatial units. Then, it computes an optimized version of the OD, minimizing the travel distance while preserving the total number of people getting in and out each spatial unit (i.e. the marginals). It also returns a random OD where the flows are randomly assigned while preserving the marginals as well.
+
+
 
 ## Input
 
@@ -62,8 +65,4 @@ The script **Main.R** runs the function **XS.R** which returns a list containing
 If you need help, find a bug, want to give me advice or feedback, please contact me!
 You can reach me at maxime.lenormand[at]inrae.fr
 
-
-
-=======
-# Excess Commuting
->>>>>>> e9f4492001f91ceaadbf1f53e70351f7d6e0ee87
+README
